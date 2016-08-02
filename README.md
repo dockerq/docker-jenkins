@@ -1,7 +1,7 @@
 #Jenkins Slave
 [![Docker Pulls](https://img.shields.io/docker/pulls/adolphlwq/docker-jenkins.svg?maxAge=2592000)]()
 
-A simple Jenkins docker image
+A simple Jenkins docker image. The master Dockerfile uses Jenkins:2.7.1 as base image.
 
 ## Usage
 1. launch a Jenkins docker image in Mesos Cluster, The Json file is:
